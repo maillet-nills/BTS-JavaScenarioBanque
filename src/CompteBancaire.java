@@ -24,4 +24,11 @@ public class CompteBancaire {
         }
     }
 
+    public String getNom() {
+        return nom;
+    }
+
+    public float getSolde() {
+        return solde;
+    }
 }
